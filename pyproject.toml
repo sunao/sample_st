@@ -6,6 +6,7 @@ authors = ["sunao <if2kr9@bma.biglobe.ne.jp>"]
 
 [tool.poetry.dependencies]
 python = "3.8.10"
+streamlit = "^1.8.1"
 
 [tool.poetry.dev-dependencies]
 
